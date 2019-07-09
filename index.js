@@ -6,7 +6,7 @@ const config = require('./config/config')
 const app = express()
 
 // Default port
-const port = 3000
+const port = process.env.PORT || 80
 
 const Pool = require('pg').Pool
 const pool = new Pool({
