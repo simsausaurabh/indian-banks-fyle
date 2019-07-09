@@ -1,0 +1,23 @@
+{
+  "name": "task",
+  "version": "1.0.0",
+  "description": "Task for Fyle - REST API for Bank Details",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "1.7.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^7.4.3",
+    "moment": "^2.17.1",
+    "moment-timezone": "^0.5.13",
+    "node-uuid": "^1.4.8",
+    "pg": "^7.11.0",
+    "swagger-ui-express": "^2.0.13",
+    "sync-request": "^4.0.2"
+  }
+}
