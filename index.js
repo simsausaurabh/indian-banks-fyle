@@ -8,6 +8,7 @@ const app = express()
 // Default port
 const port = process.env.PORT || 80
 
+// Config for heroku db-connection
 const Pool = require('pg').Pool
 const pool = new Pool({
   user: 'rsithpkpbneeea',
