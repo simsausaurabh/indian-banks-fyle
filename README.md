@@ -21,3 +21,20 @@ https://indian-banks-fyle.herokuapp.com
 ## Additional
 
 - Use ```?limit=<value>``` and/or ```?offset=<value>``` for putting limit and/or offset to results for each of the endpoints
+
+## Snapshots
+### Authentication
+![Screenshot 2019-07-10 at 1 13 29 PM](https://user-images.githubusercontent.com/16608864/60950679-3a580b00-a315-11e9-8b91-b88d72210c11.png)
+
+### Get All Banks
+![Screenshot 2019-07-10 at 1 12 37 PM](https://user-images.githubusercontent.com/16608864/60950699-43e17300-a315-11e9-9951-499f71f8cfb0.png)
+
+
+### Get Bank details by bank name
+![Screenshot 2019-07-10 at 1 15 04 PM](https://user-images.githubusercontent.com/16608864/60950654-30360c80-a315-11e9-9735-da528f69298c.png)
+
+### Get Bank details by bank ifsc
+![Screenshot 2019-07-10 at 1 15 23 PM](https://user-images.githubusercontent.com/16608864/60950591-13013e00-a315-11e9-97de-b7c9185c27e8.png)
+
+### Get Bank details by bank name and city
+![Screenshot 2019-07-10 at 1 15 42 PM](https://user-images.githubusercontent.com/16608864/60950630-22808700-a315-11e9-833d-be1ed0989001.png) 
